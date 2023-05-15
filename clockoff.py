@@ -8,8 +8,8 @@ import time
 import os
 from selenium import webdriver
 
-username = 'Chanhsianghao'
-password = 'Johnny135791130'
+username = 'XXXXX'
+password = 'XXXXX'
 
 driver = webdriver.Chrome()
 driver.get("https://my.ntu.edu.tw/mattend/ssi.aspx")
